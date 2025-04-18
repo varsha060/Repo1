@@ -1,5 +1,6 @@
 # Repo1
 Varsha H L
+Academic details:
 Sir M Visvesvaraya Institute of technology 
 2nd year CSE
 Languages:python,c
